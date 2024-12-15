@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(270deg, #E7CDCD 0%, rgba(231, 205, 205, 0) 99.55%);
+    font-family: 'Rubik', sans-serif;
+}
+.signup_1{
+
+  font-family: Niramit;
+  position: absolute;
+    left: 32%;
+    width: 663px;
+    height: 83px;
+  letter-spacing: 0em;
+  color: #626262;
+  font-size: 64px;
+}
+.signup_2{
+    position: absolute;
+    left: 40%;
+    top: 25%;
+    width: 375px;
+    height: 438px;
+    /* border: 2px solid black; */
+       
+}
+.signup_211{
+  position: absolute;
+  top: 80%;
+  left: 25%;
+
+}
+.signup_21{
+    font-family: Niramit;
+        font-style: normal;
+        font-size: 32px;
+        line-height: 42px;
+        text-align: center;
+        vertical-align: middle;
+        color: rgba(0, 0, 0, 0.9);
+        background-color: transparent;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+.sign_link{
+  position: absolute;
+  left: 0px;
+top: 298px;
+height: 37px;
+}

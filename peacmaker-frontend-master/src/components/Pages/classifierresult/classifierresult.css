@@ -1,0 +1,33 @@
+.classifierresult-container{
+    border: 2px solid black;
+    border-style: none none solid none;
+
+}
+.hero-para{
+    text-align: center;
+}
+.hero-para1{
+    margin-left: 5%;
+}
+.hero-type{
+    padding-left: 43%;
+    /* border: 2px solid black; */
+    
+}
+.classifier-sectiona{
+    border: 2px solid black;
+    border-style: none none solid none;
+}
+.sectiona{
+    text-align: center;
+    border: 2px solid black;
+    border-style: none none solid none;
+    padding-bottom: 8%;
+}
+.sectionb{
+    text-align: center;
+
+    border: 2px solid black;
+    border-style: none none solid none;
+    padding-bottom: 8%;
+}

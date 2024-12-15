@@ -1,0 +1,33 @@
+.canceller-border{
+    border: 2px solid black;
+    height: 500px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+
+}
+.canceller-header{
+    margin-top: 130.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    /* border: 2px solid red; */
+    font-family: Niramit;
+}
+.canceller-image{
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+    /* border: 2px solid red;
+    margin-left: 400px; */
+height: 289px;
+}
+.canceller-buttom{
+    
+    text-align: center;
+}
+.canceller-footer{
+    margin-top: 150px;
+}

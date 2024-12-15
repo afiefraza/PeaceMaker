@@ -1,0 +1,23 @@
+.about-header{
+    border: 2px solid black;
+    text-align: center;
+    background-color: #866E6E;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Niramit;
+    font-style: SemiBold;
+    font-size: 40px;
+    
+
+}
+.about-hero1{
+    text-align: center;
+}
+.about-img{
+    margin-left: 136px;
+  max-width: 100%;
+  height: auto;
+}
+.about-footer{
+    margin-top: 350px;
+}

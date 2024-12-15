@@ -1,0 +1,38 @@
+/* History.css */
+
+.history-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .his{
+    text-align: center;
+  }
+  .history-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .history-table th,
+  .history-table td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .history-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .history-table th {
+    background-color: #866E6E;
+
+    color: white;
+  }
+  
+  .history-table .box-cell {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  

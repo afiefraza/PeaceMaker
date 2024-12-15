@@ -1,0 +1,42 @@
+.suggestions-header{
+    left: 1px;
+top: 310px;
+width: 100%;
+height: 700px;
+margin-top: 200px;
+    /* border-left: none;
+    border-right: none;
+    border-top: none; */
+    border-bottom: 2px solid black; /* adjust the color and width as needed */
+
+    /* border: 2px solid black; */
+}
+.suggestion-hero{
+    
+        font-family: 'Niramit', sans-serif;
+        
+        text-align: center;
+        
+        color: rgba(0, 0, 0, 0.9);
+        background-color: transparent;
+        
+        /* border: 2px solid red; */
+
+      
+}
+img{
+
+    margin-right: 5%; /* adjust the value to set the desired gap */
+        
+      
+}.suggestion-middle{
+    text-align: center;
+}
+.suggestions-footer{
+    margin-top: 150px;
+}
+.baby{
+    text-indent: 5px;
+    
+
+}

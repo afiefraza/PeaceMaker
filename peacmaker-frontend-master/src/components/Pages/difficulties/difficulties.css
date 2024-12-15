@@ -1,0 +1,8 @@
+.difficulties__contaier{
+  background: #7c7c7c;
+  height: 20rem;
+  /* width: 100vw; */
+  display: flex;
+  justify-content: center;
+}
+

@@ -1,0 +1,30 @@
+.start-container{
+    width: 100%;
+
+}
+.start_p{
+    text-align: center;
+    margin-top: 20%;
+}
+.start_b{
+    position: absolute;
+    margin-left: 36%;
+    margin-top: 5%;
+}
+.start_bb{
+    margin-left: 56%;
+    margin-top: 5%;
+        width: 142px; 
+        height: 51px; 
+       font-family: Niramit;
+       font-weight: normal;
+       font-size: 18px;
+       line-height: 23px;
+       text-align: center;
+        vertical-align: middle;
+        background-color:#E9C3C3; 
+       
+       border-radius: 12px;
+     
+     
+}

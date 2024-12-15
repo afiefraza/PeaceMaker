@@ -1,0 +1,59 @@
+.account-header{
+   
+    font-family: Niramit;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 40px;
+    line-height: 101%;
+  
+    /* display: flex; */
+    /* align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px; */
+ }
+ .input-account{
+  position: absolute;
+  top: 50%;
+  bottom: none;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  border-style: none;
+  background-color: inherit;
+  
+  
+  
+  
+}
+ .main__account{
+  text-align: center;
+
+
+  padding-top: 100px;
+ }
+ .container-account{
+    display: flex;
+    margin-top: 400px;
+ margin-left: 43%;
+}
+
+
+.update {
+  background-color:#E9C3C3
+  ;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.cancel {
+  background-color:#E9C3C3;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}  

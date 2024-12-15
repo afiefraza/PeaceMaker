@@ -1,0 +1,18 @@
+.container11{
+/* position: absolute; */
+left: 0px;
+top: 298px;
+height: 37px;
+}
+.inner-div{
+    font-family: Niramit;
+  font-style: regular;
+  font-size: 13px;
+  line-height: 17px;
+  text-align: left;
+  vertical-align: middle;
+  color: rgba(0, 60, 150, 0.9);
+  margin: 0;
+  border-radius: 5pc;
+
+}

@@ -1,0 +1,33 @@
+.contact-container{
+    text-align: center;
+    border: 2px solid black;
+    background: #DBDBDB;
+    ;
+}
+
+
+
+.contact2{
+  position: absolute;
+  left: 38%;
+  top: 55%;
+  
+
+
+  
+     
+}
+.contact21{
+  position: absolute;
+  left: 43%;
+  top: 95%;
+}
+textarea {
+  resize: none;
+  background: linear-gradient(
+    270deg,
+    #e7cdcd 0%,
+    rgba(231, 205, 205, 0) 99.55%
+  );
+
+}

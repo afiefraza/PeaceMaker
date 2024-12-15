@@ -1,0 +1,12 @@
+.sample__container {
+  background: #e7cdcd;
+  margin-top: 7.1rem;
+  margin-bottom: 7.1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #7c7c7c;
+  /* gap: 10rem; */
+}
+.sample__container-text {
+}

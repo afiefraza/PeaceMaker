@@ -1,0 +1,22 @@
+/* @import url('https://fonts.cdnfonts.com/css/niramit'); */
+@import url("https://fonts.googleapis.com/css2?family=Niramit:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  /* margin: 0;
+  padding: 0; */
+  /* box-sizing: border-box; */
+  text-decoration: none;
+}
+html {
+  font-size: 18px;
+}
+
+body {
+  background: linear-gradient(
+    270deg,
+    #e7cdcd 0%,
+    rgba(231, 205, 205, 0) 99.55%
+  );
+
+  font-family: "niramit", sans-serif;
+}
